@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **damferr006@gmail.com**
 
+- ⚡ Discord **DamFerr#6957**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/officialdamferr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="officialdamferr" height="30" width="40" /></a>
@@ -27,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damferr&show_icons=true&locale=en&layout=compact" alt="damferr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damferr&show_icons=true&locale=en" alt="damferr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damferr&" alt="damferr" /></p>
