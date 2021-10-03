@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/officialdamferr" target="blank"><img src="https://img.shields.io/twitter/follow/officialdamferr?logo=twitter&style=for-the-badge" alt="officialdamferr" /></a> </p>
 
-- 🔭 I’m currently working on [StarBot](htpps://starbot.tk)
+- 🔭 I’m currently working on [StarBot](starbot.tk)
 
-- 📝 My website [htpps://damferr.xyz/](htpps://damferr.xyz/)
+- 📝 My website [damferr.xyz](damferr.xyz)
 
 - 📫 How to reach me **damferr006@gmail.com, Discord: DamFerr#6957**
 
