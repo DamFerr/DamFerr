@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/officialdamferr" target="blank"><img src="https://img.shields.io/twitter/follow/officialdamferr?logo=twitter&style=for-the-badge" alt="officialdamferr" /></a> </p>
 
-- 🔭 I’m currently working on [StarBot](starbot.tk)
+- 🔭 I’m currently working on [StarBot](https://starbot.tk)
 
-- 📝 My website [damferr.xyz](damferr.xyz)
+- 📝 My website [https://damferr.xyz](https://damferr.xyz)
 
-- 📫 How to reach me **damferr006@gmail.com, Discord: DamFerr#6957**
+- 📫 How to reach me **damferr006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
