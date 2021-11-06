@@ -32,5 +32,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damferr&" alt="damferr" /></p>
 
- 
- ​<img src="https://lanyard-profile-readme.vercel.app/api/758777734159138856" width="265"/>
