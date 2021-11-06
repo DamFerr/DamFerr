@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damferr&show_icons=true&locale=en" alt="damferr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damferr&" alt="damferr" /></p>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/758777734159138856
+                            )](https://discord.com/users/758777734159138856)
