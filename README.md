@@ -32,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damferr&" alt="damferr" /></p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/758777734159138856
-                            )](https://discord.com/users/758777734159138856)
+ 
+ ​<img src="https://lanyard-profile-readme.vercel.app/api/758777734159138856" width="265"/>
